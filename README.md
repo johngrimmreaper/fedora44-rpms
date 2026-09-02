@@ -8,11 +8,9 @@ Public, signed **stable RPM repository for Fedora Linux 44**, containing package
 
 The published site provides the complete package inventory, RPM metadata, repository descriptors, signing key, package browser, and current repository usage information.
 
-> The Fedora 44 stable channel currently has no published RPM snapshot. The consumer URL and configuration below are the canonical endpoints and become active with the first stable publication.
-
 ## Configure the repository
 
-RPM package signatures and repository metadata signatures are enabled for published snapshots.
+RPM package signatures and repository metadata signatures are enabled.
 
 Repository signing-key fingerprint:
 
@@ -20,7 +18,7 @@ Repository signing-key fingerprint:
 E4C3 D7CD 3003 57A5 07C2 B237 FF30 3241 B8B8 606D
 ```
 
-After the first stable publication, install the repository signing key and repository descriptor, then refresh DNF metadata:
+Install the repository signing key and repository descriptor, then refresh DNF metadata:
 
 ```bash
 sudo rpm --import https://johngrimmreaper.github.io/fedora44-rpms/RPM-GPG-KEY
