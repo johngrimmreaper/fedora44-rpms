@@ -1,0 +1,32 @@
+{
+  "clock": "unix-nanoseconds",
+  "files": {
+    "Packages/gearboy-3.8.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788538825000000000,
+      "sha256": "84618f4c03b0f61c623d7d290f11771d1c4aeb30ee1863172fade381bcb1c9b3",
+      "size": 1433730
+    },
+    "Packages/gearcoleco-1.6.13-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539124000000000,
+      "sha256": "de003c4a10b7078d7ca163026a941365b2d8302a932c2174cf9581c837029263",
+      "size": 1524720
+    },
+    "Packages/geargrafx-1.7.20-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539392000000000,
+      "sha256": "88e81ebcdbf5826e00f29349671b8bab9055895c11995e0b365b1097afc74a7f",
+      "size": 2165742
+    },
+    "Packages/gearlynx-1.2.31-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788540066000000000,
+      "sha256": "c7ddb50b5171dff487cf96a6d57b80d959a345f5f86f1650357c8c4b5cac88c5",
+      "size": 1845825
+    },
+    "Packages/gearsystem-3.9.18-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539751000000000,
+      "sha256": "f52f24907024b39f6b58345ba354c0433249bf9464ce4faf3196ca8bf4cebd9a",
+      "size": 1576449
+    }
+  },
+  "schema": 1,
+  "source": "rpm-header-buildtime"
+}
