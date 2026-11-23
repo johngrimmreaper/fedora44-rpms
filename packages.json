@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "name": "blastem",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1.0.0-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Sega Genesis and Mega Drive emulator",
+      "install_command": "sudo dnf install blastem",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/blastem/"
+    },
+    {
+      "name": "gearboy",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "3.8.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Game Boy / Game Boy Color emulator",
+      "install_command": "sudo dnf install gearboy",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/gearboy/"
+    },
+    {
+      "name": "gearcoleco",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1.6.13-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "ColecoVision emulator",
+      "install_command": "sudo dnf install gearcoleco",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/gearcoleco/"
+    },
+    {
+      "name": "geargrafx",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1.7.20-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "PC Engine / TurboGrafx-16 / SuperGrafx / CD-ROM² emulator",
+      "install_command": "sudo dnf install geargrafx",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/geargrafx/"
+    },
+    {
+      "name": "gearlynx",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1.2.31-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Atari Lynx emulator",
+      "install_command": "sudo dnf install gearlynx",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/gearlynx/"
+    },
+    {
+      "name": "gearsystem",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "3.9.18-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Sega Master System / Game Gear / SG-1000 emulator",
+      "install_command": "sudo dnf install gearsystem",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/gearsystem/"
+    },
+    {
+      "name": "xscreensaver",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "X screen saver and locker",
+      "install_command": "sudo dnf install xscreensaver",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver/"
+    },
+    {
+      "name": "xscreensaver-base",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "A minimal installation of xscreensaver",
+      "install_command": "sudo dnf install xscreensaver-base",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-base/"
+    },
+    {
+      "name": "xscreensaver-extras",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "An enhanced set of screensavers",
+      "install_command": "sudo dnf install xscreensaver-extras",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-extras/"
+    },
+    {
+      "name": "xscreensaver-extras-base",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "A base package for screensavers",
+      "install_command": "sudo dnf install xscreensaver-extras-base",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-extras-base/"
+    },
+    {
+      "name": "xscreensaver-extras-gss",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Desktop files of extras for other screensaver",
+      "install_command": "sudo dnf install xscreensaver-extras-gss",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-extras-gss/"
+    },
+    {
+      "name": "xscreensaver-gl-base",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "A base package for screensavers that require OpenGL",
+      "install_command": "sudo dnf install xscreensaver-gl-base",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-gl-base/"
+    },
+    {
+      "name": "xscreensaver-gl-extras",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "An enhanced set of screensavers that require OpenGL",
+      "install_command": "sudo dnf install xscreensaver-gl-extras",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-gl-extras/"
+    },
+    {
+      "name": "xscreensaver-gl-extras-gss",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "1:6.15-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Desktop files of gl-extras for other screensaver",
+      "install_command": "sudo dnf install xscreensaver-gl-extras-gss",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-gl-extras-gss/"
+    },
+    {
+      "name": "xscreensaver-mystify",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "0.2.0-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "Mystify display hack for XScreenSaver",
+      "install_command": "sudo dnf install xscreensaver-mystify",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/xscreensaver-mystify/"
+    },
+    {
+      "name": "zsnes2",
+      "distribution": "Fedora 44",
+      "version_release": [
+        "2.3.9-1.fc44"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "summary": "ZSNES 2 Super Nintendo emulator",
+      "install_command": "sudo dnf install zsnes2",
+      "page_url": "https://johngrimmreaper.github.io/fedora44-rpms/packages/fedora/44/zsnes2/"
+    }
+  ]
+}

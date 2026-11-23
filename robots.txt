@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /fedora44-rpms/packages/
+Disallow: /fedora44-rpms/stable/fedora/44/x86_64/
+Disallow: /fedora44-rpms/repo/
+
+Sitemap: https://johngrimmreaper.github.io/fedora44-rpms/sitemap.xml

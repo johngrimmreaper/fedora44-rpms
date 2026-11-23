@@ -1,0 +1,87 @@
+{
+  "clock": "unix-nanoseconds",
+  "files": {
+    "Packages/blastem-1.0.0-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1791151974000000000,
+      "sha256": "1f0b0248249a6bbe5b7f1a4c163be5a5ee7d5168f633fe80fd1f94786d6e0af7",
+      "size": 1631052
+    },
+    "Packages/gearboy-3.8.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788538825000000000,
+      "sha256": "84618f4c03b0f61c623d7d290f11771d1c4aeb30ee1863172fade381bcb1c9b3",
+      "size": 1433730
+    },
+    "Packages/gearcoleco-1.6.13-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539124000000000,
+      "sha256": "de003c4a10b7078d7ca163026a941365b2d8302a932c2174cf9581c837029263",
+      "size": 1524720
+    },
+    "Packages/geargrafx-1.7.20-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539392000000000,
+      "sha256": "88e81ebcdbf5826e00f29349671b8bab9055895c11995e0b365b1097afc74a7f",
+      "size": 2165742
+    },
+    "Packages/gearlynx-1.2.31-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788540066000000000,
+      "sha256": "c7ddb50b5171dff487cf96a6d57b80d959a345f5f86f1650357c8c4b5cac88c5",
+      "size": 1845825
+    },
+    "Packages/gearsystem-3.9.18-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788539751000000000,
+      "sha256": "f52f24907024b39f6b58345ba354c0433249bf9464ce4faf3196ca8bf4cebd9a",
+      "size": 1576449
+    },
+    "Packages/xscreensaver-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "bcba8591555e0be61ed26d9445733d61bad0d496809f758087c5c39f297f1cbd",
+      "size": 8369
+    },
+    "Packages/xscreensaver-base-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "5d4d92d2815ed9a570b79350719894e3472f143bcab40de350b69de41e7c368d",
+      "size": 546853
+    },
+    "Packages/xscreensaver-extras-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "4ace456cec756eced72314718571d8594530f6b3653ff4b1b111186ed33ffb75",
+      "size": 2266025
+    },
+    "Packages/xscreensaver-extras-base-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "0e9a4ea8ff81c730ba449be27cfd7994e779e1be5a962724a7fb043a9407aabd",
+      "size": 230287
+    },
+    "Packages/xscreensaver-extras-gss-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "f968f1e90a959da1c1ba068c4496d07c842a2281d924137cf7278f673616c28f",
+      "size": 47355
+    },
+    "Packages/xscreensaver-gl-base-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "cd67cce3a3550bdcf1752636ba0df5b304559090ca25a4327857efaf61e930ed",
+      "size": 16733
+    },
+    "Packages/xscreensaver-gl-extras-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "69427b607027f53d67645468a1cb780fa78ae93d1d18bd66d2c4d1e2e037fadf",
+      "size": 68120263
+    },
+    "Packages/xscreensaver-gl-extras-gss-6.15-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788786922000000000,
+      "sha256": "84431e5d7162667b80d6bdc61ddd73e99d9949c6719a94faff4b3f9ffe33d0b5",
+      "size": 63486
+    },
+    "Packages/xscreensaver-mystify-0.2.0-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1788790549000000000,
+      "sha256": "311e41f78a88776f57b5a04a9f209abfd3d6e45070b87fcc724b0ce3450bffe2",
+      "size": 25991
+    },
+    "Packages/zsnes2-2.3.9-1.fc44.x86_64.rpm": {
+      "mtime_ns": 1795469171000000000,
+      "sha256": "86617a6511824b2c0e0615ca7d1e4fd3b9ea89b8ae2b1badc71203535bb12c6a",
+      "size": 1199532
+    }
+  },
+  "schema": 1,
+  "source": "rpm-header-buildtime"
+}

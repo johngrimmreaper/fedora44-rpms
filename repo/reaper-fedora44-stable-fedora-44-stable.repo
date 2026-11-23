@@ -1,0 +1,9 @@
+[reaper-fedora44-stable-fedora-44-stable]
+name=Reaper Fedora 44 RPM Repository - fedora-44 - stable
+baseurl=https://johngrimmreaper.github.io/fedora44-rpms/stable/fedora/44/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://johngrimmreaper.github.io/fedora44-rpms/RPM-GPG-KEY
+metadata_expire=6h
+skip_if_unavailable=0
